@@ -1,0 +1,123 @@
+
+body {
+    margin: 0;
+    background-color: black;
+  }
+  
+  
+  #topo{
+    background-color: rgb(14, 167, 149);
+    padding: 10px;
+    display:flex;
+  }
+
+.topo3{
+  margin-left: 800px;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 25px;
+  color: rgb(10, 7, 4);
+  display: flex;
+  
+}
+
+  .topo2{
+    margin-left:5% ;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+    display: flex;
+    
+  }
+  
+
+.coluna1 {
+    float: left;
+    width: 50%;
+    background-color:black;
+  }
+ 
+  .coluna2 {
+    float: left;
+    width: 50%;
+    background-color: black;
+  
+  }
+
+  .coluna1 img{
+    margin-left:105px ;
+    margin-top: 15%;
+    
+  }
+
+.g, h3{
+  color:rgb(14, 167, 149);
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  
+}
+
+.g{
+  margin-left: 19%;
+  font-size: 40px;
+
+}
+
+
+  
+
+
+.audio{
+  margin-left: 25%;
+  width: 100%;
+}
+
+.b{
+  margin-top: 1%;
+  margin-left: 38%;
+  color: rgb(14, 167, 149);
+  font-size: 40px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  margin-top: 5%;
+}
+
+
+.h{
+  margin-left: 25%;
+  color: rgb(245, 248, 225);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+span{
+  color: rgb(255, 255, 255);
+  float: left;
+  margin-left: 5%;
+  margin-top: 1%;
+}
+
+.seta{
+  margin-top: 3%;
+  font-size: 20%;
+  color: black;
+}
+
+.teste1{
+  text-align: center;
+  width: 50%;
+}
+
+.teste2{
+  float: left;
+}
+
+.coluna {
+  
+  width: 60%;
+  
+  float: left;
+  text-align: center ;
+  
+}
+
+.coluna .c{
+  text-align: center;
+  color: #fff;
+
+}

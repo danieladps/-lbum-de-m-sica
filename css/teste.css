@@ -1,0 +1,19 @@
+*{margin: 0 auto;}
+
+.teste1{
+    text-align: center;
+    width: 50%;
+  }
+  
+  .teste2{
+    float: left;
+  }
+  
+  .coluna {
+    
+    width: 100%;
+
+    float: left;
+    text-align: center ;
+    
+  }
